@@ -1,3 +1,5 @@
+Havva İlayda Altunlu	160709015
+
 kakuros.py
 
 this code solves 3x3 kakuro puzzles. code will prints the output if there is a solution and writes this output to the kakuro_output.txt. 
